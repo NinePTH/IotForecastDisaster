@@ -1,4 +1,5 @@
 # IotForecastDisaster
-NodeMCU
-MQTT Broker
-Raspberry pi
+-NodeMCU
+-Arduino
+-MQTT Broker
+-Raspberry pi
